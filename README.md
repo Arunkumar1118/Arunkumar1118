@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ARUN KUMAR</h1>
-<h3 align="center">I am Aspiring AUTOMATION DEVLOPER</h3>
-<h3 align="center">I'm a React Developer with proficiency in Data Structures Algorithms Express and MogoDB who enjoys making web application and learning new technology.</h3>
+<h3 align="center">Automation Tester</h3>
+<h3 align="center">I'm a Automation Tester with proficiency in Selenium & Jenkins.</h3>
 <p align="center" ><img width="80%" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" /></p>
 
 
